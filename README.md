@@ -24,16 +24,16 @@ I have also taken up CS50X by David J. Malan.
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   5 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Desktop                  5 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      5 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 09/11/2021
+ Last Updated on 10/11/2021
 <!--END_SECTION:waka-->
