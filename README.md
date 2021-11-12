@@ -5,15 +5,15 @@ I have also taken up CS50X by David J. Malan.
 
 ### Some Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-482%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16892%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    2 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
-🌃 Evening    18 commits     █████████████████░░░░░░░░   69.23% 
-🌙 Night      6 commits      █████░░░░░░░░░░░░░░░░░░░░   23.08%
+🌆 Daytime    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.41% 
+🌃 Evening    19 commits     █████████████████░░░░░░░░   70.37% 
+🌙 Night      6 commits      █████░░░░░░░░░░░░░░░░░░░░   22.22%
 
 ```
 
@@ -35,5 +35,5 @@ Mac                      5 mins              ███████████�
 ```
 
 
- Last Updated on 11/11/2021
+ Last Updated on 12/11/2021
 <!--END_SECTION:waka-->
