@@ -7,15 +7,15 @@ I have also taken up CS50X by David J. Malan.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2031%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-46%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    4 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
-🌃 Evening    24 commits     ███████████████░░░░░░░░░░   63.16% 
-🌙 Night      10 commits     ██████░░░░░░░░░░░░░░░░░░░   26.32%
+🌆 Daytime    3 commits      ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
+🌃 Evening    21 commits     ████████████████░░░░░░░░░   65.62% 
+🌙 Night      8 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0%
 
 ```
 
