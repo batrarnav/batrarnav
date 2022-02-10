@@ -5,6 +5,8 @@ I have also taken up CS50X by David J. Malan.
 
 ### Some Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%207%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -24,17 +26,19 @@ I have also taken up CS50X by David J. Malan.
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 19 mins        ██████████████████████░░░   90.37% 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.63%
+Python                   1 hr 19 mins        ████████████████████░░░░░   82.33% 
+Java                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.9% 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.77%
 
 🐱‍💻 Projects: 
-programming              1 hr 27 mins        █████████████████████████   100.0%
+programming              1 hr 27 mins        ██████████████████████░░░   91.1% 
+Unknown Project          8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.9%
 
 💻 Operating System: 
-Mac                      1 hr 27 mins        █████████████████████████   100.0%
+Mac                      1 hr 36 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 10/02/2022 00:26:33 UTC
+ Last Updated on 10/02/2022 08:08:22 UTC
 <!--END_SECTION:waka-->
