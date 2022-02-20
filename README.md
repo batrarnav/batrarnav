@@ -5,6 +5,8 @@ I have also taken up CS50X by David J. Malan.
 
 ### Some Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2036%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -36,5 +38,5 @@ Mac                      2 hrs 53 mins       ███████████�
 ```
 
 
- Last Updated on 20/02/2022 00:31:33 UTC
+ Last Updated on 20/02/2022 08:09:24 UTC
 <!--END_SECTION:waka-->
