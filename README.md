@@ -9,7 +9,7 @@ I have also taken up CS50X by David J. Malan.
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
@@ -20,7 +20,7 @@ I have also taken up CS50X by David J. Malan.
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
@@ -37,5 +37,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 12/06/2022 08:09:48 UTC
+ Last Updated on 12/06/2022 16:09:44 UTC
 <!--END_SECTION:waka-->
