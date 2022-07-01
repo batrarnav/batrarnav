@@ -5,7 +5,7 @@ I have also taken up CS50X by David J. Malan.
 
 ### Some Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23%20Thousand%20lines%20of%20code-blue)
 
@@ -13,9 +13,9 @@ I have also taken up CS50X by David J. Malan.
 
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-🌃 Evening    24 commits     █████████████████░░░░░░░░   70.59% 
-🌙 Night      8 commits      ██████░░░░░░░░░░░░░░░░░░░   23.53%
+🌆 Daytime    2 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.41% 
+🌃 Evening    27 commits     ██████████████████░░░░░░░   72.97% 
+🌙 Night      8 commits      █████░░░░░░░░░░░░░░░░░░░░   21.62%
 
 ```
 
@@ -37,5 +37,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 01/07/2022 08:11:49 UTC
+ Last Updated on 01/07/2022 16:10:05 UTC
 <!--END_SECTION:waka-->
